@@ -1,5 +1,5 @@
 '''
- CS-G513 Homework #2: problem 1
+ Task 1
  PROGRAM TO PERFORM ENCRYPTION AND DECRYPTION BY DES ALGORITHM
 
  Requirements :file "message.txt"  - plain text to be Encrypted
