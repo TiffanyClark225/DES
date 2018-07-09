@@ -1,5 +1,5 @@
 '''
-CS-G513 Homework #2: problem 2
+Task 2
 PROGRAM TO ESTIMATE THE EXTENT OF DIFFUSION AND CONFUSION
 Requirements :file "message.txt"  - plain text to be Encrypted
 			  file "key.txt"  - encryption key to be used
