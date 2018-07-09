@@ -26,4 +26,4 @@ yields similar results.
 1. Diffusion :After complementing the ciphertext bit at a random position in every block, in
 this case position 7. Around 50% bits changed.
 2. Randomizing sboxes : output for randomized sboxes for 3 sets.
-3.Confusion : 50 % bits of ciphertext changed
+3. Confusion : 50 % bits of ciphertext changed
