@@ -2,6 +2,8 @@
 
 The goal here was to understand the implementation of the DES (Data Encryption Standard) algorithm and to observe the effects of Diffusion and Confusion (also known as the Avalanche efect)
 
+This implementation makes use of the BitVector library.https://pypi.org/project/BitVector/
+
 # Task 1
 
 Encryption and Decryption by DES
